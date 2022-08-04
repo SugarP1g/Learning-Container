@@ -23,3 +23,4 @@
 - [K8s安全入门学习扫盲贴](https://tttang.com/archive/1465/)
 - [从零开始的Kubernetes攻防](https://github.com/neargle/my-re0-k8s-security)
 - [kubernetes集群渗透测试](https://www.freebuf.com/vuls/196993.html)
+- [Kubernetes Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html)
