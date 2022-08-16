@@ -18,6 +18,7 @@
 - [Kubernetes 官方文档](https://kubernetes.io/zh-cn/docs/tutorials/kubernetes-basics/)
 - [Kubernetes教程](https://kuboard.cn/learning/)
 - [Kubernetes(k8s)中文教程](https://www.orchome.com/kubernetes/index)
+- [Kubernetes 基础教程](https://lib.jimmysong.io/kubernetes-handbook/)
 
 ### 安全
 
