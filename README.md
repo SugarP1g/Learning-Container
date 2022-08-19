@@ -14,6 +14,10 @@
   - [Linux Cgroup 入门教程：内存](https://icloudnative.io/posts/understanding-cgroups-part-3-memory/)
   - [Linux Cgroup 入门教程：cpuset](https://icloudnative.io/posts/understanding-cgroups-part-4-cpuset/)
   - [Linux资源管理之cgroups简介](https://tech.meituan.com/2015/03/31/cgroups.html)
+- Capabilities
+  - [Linux Capabilities 入门教程：概念篇](https://icloudnative.io/posts/linux-capabilities-why-they-exist-and-how-they-work/)
+  - [Linux Capabilities 入门教程：基础实战篇](https://icloudnative.io/posts/linux-capabilities-in-practice-1/)
+  - [Linux Capabilities 入门教程：进阶实战篇](https://icloudnative.io/posts/linux-capabilities-in-practice-2/)
   
 ## K8S
 
