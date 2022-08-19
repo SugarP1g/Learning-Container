@@ -9,6 +9,10 @@
 ### 底层核心技术
 
 - cgroups
+  - [Linux Cgroup 入门教程：基本概念](https://icloudnative.io/posts/understanding-cgroups-part-1-basics/)
+  - [Linux Cgroup 入门教程：CPU](https://icloudnative.io/posts/understanding-cgroups-part-2-cpu/)
+  - [Linux Cgroup 入门教程：内存](https://icloudnative.io/posts/understanding-cgroups-part-3-memory/)
+  - [Linux Cgroup 入门教程：cpuset](https://icloudnative.io/posts/understanding-cgroups-part-4-cpuset/)
   - [Linux资源管理之cgroups简介](https://tech.meituan.com/2015/03/31/cgroups.html)
   
 ## K8S
