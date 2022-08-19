@@ -18,7 +18,9 @@
   - [Linux Capabilities 入门教程：概念篇](https://icloudnative.io/posts/linux-capabilities-why-they-exist-and-how-they-work/)
   - [Linux Capabilities 入门教程：基础实战篇](https://icloudnative.io/posts/linux-capabilities-in-practice-1/)
   - [Linux Capabilities 入门教程：进阶实战篇](https://icloudnative.io/posts/linux-capabilities-in-practice-2/)
-  
+- Namespace
+  - [Linux Namespace 基础教程：namespace API](https://icloudnative.io/posts/introduction-to-linux-namespaces-part-1-api/)  
+
 ## K8S
 
 ### 使用指南
