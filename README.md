@@ -29,6 +29,7 @@
 - [Kubernetes教程](https://kuboard.cn/learning/)
 - [Kubernetes(k8s)中文教程](https://www.orchome.com/kubernetes/index)
 - [Kubernetes 基础教程](https://lib.jimmysong.io/kubernetes-handbook/)
+- [Kubernetes 中文指南/云原生应用架构实战手册](https://jimmysong.io/kubernetes-handbook/)
 
 ### 安全
 
